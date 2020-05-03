@@ -34,14 +34,3 @@
 	left: 520px;
 	box-sizing: border-box;
 }
-
-/*
-
-                g.setColor(Color.yellow);
-                 g.fillOval(ballX, ballY, 20, 20);
-                 g.setColor(Color.green);
-                 g.fillRect(playerX,550,100,8);
-                 
-                 
-                 g.setColor(Color.red);
-                 g.fillRect(widthBox, heightBox, 100, 20);
